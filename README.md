@@ -2,7 +2,7 @@
 
 ![Alt Text](web_app.png)
 
-# Resume Analysis Project
+# Resume Analysis 
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE.md)
 
